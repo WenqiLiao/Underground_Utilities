@@ -1,3 +1,6 @@
+#pseudo code from the journal article translated to python code 
+
+
 class NetworkGenerator:
     def __init__(self):
         self.NetWk = []  # List to store network edges
