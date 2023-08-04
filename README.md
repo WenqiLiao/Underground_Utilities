@@ -8,7 +8,7 @@
 
 ### Part 2: Algorithm Workflow 
 
-
+## Licenses and Resources 
 
 
 
