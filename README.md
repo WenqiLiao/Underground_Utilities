@@ -3,7 +3,7 @@
 ## Authors and Contributions 
 
 
-As part of NYU's Undergraduate Summer Research Program, researchers Jasper Hall (Brooklyn Tech High School), Wenqi Liao (NYU CAS'24), Isha Sing (NYU Tandon'25) and Indeera Saha (NYU Tandon'26) worked to develop this project in collaboration with the NYU Center for Urban Science and Progress. 
+As part of NYU's Undergraduate Summer Research Program, researchers Jasper Hall (Brooklyn Tech High School), Wenqi Liao (NYU CAS'24), Isha Singh (NYU Tandon'25) and Indeera Saha (NYU Tandon'26) worked to develop this project in collaboration with the NYU Center for Urban Science and Progress. 
 
 ## Project Details and Methodologies 
 
